@@ -1,0 +1,15 @@
+name: ${project.name}
+author: AdamQpzm
+version: ${project.version}
+description: ${project.description}
+
+main: ${project.groupId}.${project.artifactId}.${project.name}
+load: POSTWORLD
+
+commands:
+  mobarmourplus:
+    description: The main MobArmourPlus command.
+    aliases: [mobarmorplus, map]
+    usage: /map reload
+    permission: mobarmourplus.reload
+    permission-message: You do not have permission to perform this command

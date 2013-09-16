@@ -1,0 +1,67 @@
+############################################################
+#               MobArmourPlus Configuration                #
+############################################################
+
+# Only the following mobs will be allowed to spawn.
+# Delete the # in front of a mob to allow it to spawn.
+allowed-mob-spawns:
+#  - bat
+#  - blaze
+#  - cave_spider
+#  - chicken
+#  - cow
+#  - creeper
+#  - ender_dragon
+#  - enderman
+#  - ghast
+#  - horse
+#  - iron_golem
+#  - magma_cube
+#  - mooshroom
+#  - ocelot
+#  - pig
+#  - pig_zombie
+#  - sheep
+#  - silverfish
+#  - skeleton
+#  - slime
+#  - spider
+#  - squid
+#  - villager
+#  - witch
+#  - wither
+#  - wolf
+#  - zombie
+
+# The percentage chance that a mob will spawn with armour and tools.
+# This chance also applies to enchantments on the armour and tools.
+# If a mob is not listed here (or is commented out), they will not spawn with armour.
+# To allow a mob to spawn, simply remove the # in front, and change the 20 to the chance.
+armour-chance:
+#  bat: 20
+#  blaze: 20
+#  cave_spider: 20
+#  chicken: 20
+#  cow: 20
+#  creeper: 20
+#  ender_dragon: 20
+#  enderman: 20
+#  ghast: 20
+#  horse: 20
+#  iron_golem: 20
+#  magma_cube: 20
+#  mooshroom: 20
+#  ocelot: 20
+#  pig: 20
+#  pig_zombie: 20
+#  sheep: 20
+#  silverfish: 20
+#  skeleton: 20
+#  slime: 20
+#  spider: 20
+#  squid: 20
+#  villager: 20
+#  witch: 20
+#  wither: 20
+#  wolf: 20
+#  zombie: 20
